@@ -1,6 +1,8 @@
 # test
 
+<!-- statamic:hide -->
 [badge here]
+<!-- /statamic:hide -->
 
 Changing the text.
 
