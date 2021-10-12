@@ -9,9 +9,7 @@ body:
     validations:
       required: true
   - type: markdown
-    value: |
-      '## Environment'
-      You can get the versions and installed addons by running `php please support:details`.
+    value: '## Environment You can get the versions and installed addons by running `php please support:details`.'
   - type: input
     attributes:
       label: Statamic version
