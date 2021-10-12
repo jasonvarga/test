@@ -10,7 +10,7 @@ body:
       required: true
   - type: markdown
     value: |
-      ## Environment
+      '## Environment'
       You can get the versions and installed addons by running `php please support:details`.
   - type: input
     attributes:
