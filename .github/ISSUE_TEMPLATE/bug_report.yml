@@ -16,6 +16,10 @@ body:
     validations:
       required: true
   - type: textarea
+    attributes:
+      label: Logs
+      description: You can paste any relevant logs here, they'll be automatically rendered in code blocks.
+      render: shell
   - type: markdown
     attributes:
       value: |
