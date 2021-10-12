@@ -15,6 +15,7 @@ body:
       placeholder: Go here, Type this, Click that, Look over there.
     validations:
       required: true
+  - type: textarea
   - type: markdown
     attributes:
       value: |
@@ -46,8 +47,8 @@ body:
       label: Installation
       description: How did you install Statamic?
       options:
-        - Blank statamic/statamic site using the CLI tool
-        - Starter Kit using the CLI tool
+        - Fresh statamic/statamic site via CLI
+        - Starter Kit using via CLI
         - Existing Laravel app
         - Other (please explain)
     validations:
