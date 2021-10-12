@@ -41,3 +41,18 @@ body:
   - type: textarea
     attributes:
       label: Installed Addons
+  - type: dropdown
+    attributes:
+      label: Installation
+      description: How did you install Statamic?
+      options:
+        - Blank statamic/statamic site using the CLI tool
+        - Starter Kit using the CLI tool
+        - Existing Laravel app
+        - Other (please explain)
+    validations:
+      required: true      
+  - type: input
+    attributes:
+      label: Other
+      description: Fancy installation method? Please explain!
