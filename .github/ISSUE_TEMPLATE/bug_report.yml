@@ -12,7 +12,7 @@ body:
     attributes:
       label: How to reproduce
       description: List the steps so we're able to recreate this bug.
-      placeholder: 1. Go here, 2. Type this, 3. Click that, 4. Look over there
+      placeholder: Go here, Type this, Click that, Look over there.
     validations:
       required: true
   - type: markdown
