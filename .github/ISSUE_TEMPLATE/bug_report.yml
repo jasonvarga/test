@@ -8,9 +8,28 @@ body:
       placeholder: I did this thing over here, and saw this error...
     validations:
       required: true
+  - type: markdown
+    value: |
+      ## Environment
+      You can get the versions and installed addons by running `php please support:details`.
   - type: input
     attributes:
-      label: Statamic Version
-      placeholder: 3.2.x
+      label: Statamic version
+      placeholder: e.g. 3.2.15
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Laravel version
+      placeholder: e.g. 8.64.0
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: PHP version
+      placeholder: e.g. 8.0.1
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Installed Addons
