@@ -20,29 +20,13 @@ body:
       label: Logs
       description: You can paste any relevant logs here, they'll be automatically rendered in code blocks. You can find your logs in `storage/logs`.
       render: shell
-  - type: input
-    attributes:
-      label: Statamic version
-      description: You can get the versions and installed addons by running `php please support:details`.
-      placeholder: e.g. 3.2.15
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: Laravel version
-      placeholder: e.g. 8.64.0
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: PHP version
-      placeholder: e.g. 8.0.1
-    validations:
-      required: true
   - type: textarea
     attributes:
-      label: Installed Addons
-      description: We need to know because they might be the cause of the bug.
+      label: Versions and Addons
+      description: Please let us know your Statamic, PHP, Laravel, and addon versions. You can paste the output of the `php please support:details` command.
+      placeholder: 
+    validations:
+      required: true
   - type: dropdown
     attributes:
       label: Installation
