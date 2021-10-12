@@ -24,7 +24,7 @@ body:
     attributes:
       label: Versions
       description: |
-        Please let us know the installed versions of Statamic, PHP, Laravel, and addons.  
+        The versions of Statamic, PHP, Laravel, and any addons that are installed.
         You can paste the output of the `php please support:details` command.
       placeholder: 
     validations:
