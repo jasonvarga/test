@@ -15,6 +15,10 @@ body:
       placeholder: Go here, Type this, Click that, Look over there.
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Example Repo
+      description: Bonus points for you if you can provide a repo with the bug recreated.
   - type: markdown
     attributes:
       value: |
