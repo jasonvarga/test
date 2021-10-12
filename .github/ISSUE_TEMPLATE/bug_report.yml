@@ -54,5 +54,4 @@ body:
       required: true      
   - type: input
     attributes:
-      label: Other
       description: Fancy installation method? Please explain!
