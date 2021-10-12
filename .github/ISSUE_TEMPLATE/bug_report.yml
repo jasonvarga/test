@@ -23,7 +23,9 @@ body:
   - type: textarea
     attributes:
       label: Versions
-      description: Please let us know the installed versions of Statamic, PHP, Laravel, and addons. You can paste the output of the `php please support:details` command.
+      description: |
+        Please let us know the installed versions of Statamic, PHP, Laravel, and addons.  
+        You can paste the output of the `php please support:details` command.
       placeholder: 
     validations:
       required: true
