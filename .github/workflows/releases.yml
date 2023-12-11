@@ -19,7 +19,7 @@ jobs:
         run: npm run build
 
       - name: Create zip
-        run: tar -czvf dist.tar.gz dist
+        run: tar -czvf dist.tar.gz public/build
 
       - name: Create release
         id: create_release
