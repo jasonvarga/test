@@ -1,5 +1,12 @@
 # Release Notes
 
+## 3.2.4 (2023-12-11)
+
+### What's fixed
+- Use changelog in releases.
+
+
+
 ## 3.2.3 (2023-12-11)
 
 ### What's fixed
