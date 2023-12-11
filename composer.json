@@ -1,11 +1,4 @@
 {
     "name": "jasonvarga/test",
-    "description": "",
-    {
-        "extra": {
-            "statamic": {
-                "editions": ["free", "basic", "pro"]
-            }
-        }
-    }
+    "description": ""
 }
