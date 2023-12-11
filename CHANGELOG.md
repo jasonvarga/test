@@ -1,5 +1,12 @@
 # Release Notes
 
+## 3.2.2 (2023-12-11)
+
+### What's fixed
+- Adjust workflow.
+
+
+
 ## 3.2.1 (2023-12-11)
 
 ### What's fixed
