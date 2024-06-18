@@ -12,6 +12,7 @@ beta 1
 beta 2
 beta 3
 v3
+v4
 
 <!-- statamic:hide -->
 [something here that shouldnt be in the marketplace either]
