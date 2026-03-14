@@ -1,28 +1,5 @@
-# test
-2
-<!-- statamic:hide -->
-[badge here]
-<!-- /statamic:hide -->
+# Test Project
 
-Changing the text! again!!!zy
+A sandbox repository for experimenting with GitHub features like Actions, releases, security advisories, and other platform functionality.
 
-Again. again.
-
-beta 1
-beta 2
-beta 3
-v3
-
-<!-- statamic:hide -->
-[something here that shouldnt be in the marketplace either]
-<!-- /statamic:hide -->
-
-show this in the marketplace
-test
-test2
-test3
-test4
-
-test5
-test6
-test7
+Not intended for production use or consumption as a real package/starter kit.
