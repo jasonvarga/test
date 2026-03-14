@@ -1,4 +1,4 @@
-# Test
+# Test Project
 
 A sandbox repository for experimenting with GitHub features like Actions, releases, security advisories, and other platform functionality.
 
