@@ -1,0 +1,1 @@
+This is a test/sandbox repository used for experimenting with GitHub features (Actions, releases, security advisories, etc.). It is not a real project and is not intended to be consumed by anything meaningful. Files and configuration here exist solely for testing purposes.
